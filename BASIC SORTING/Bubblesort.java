@@ -9,9 +9,9 @@ public class Bubblesort{
                     int temp = arr[j];
                     arr[j] = arr[j+1];
                     arr[j+1] = temp;
-
                 }
             }
+            //update
         }
     }
     public static void printArr(int arr[]){
